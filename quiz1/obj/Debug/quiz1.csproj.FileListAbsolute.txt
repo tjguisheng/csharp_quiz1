@@ -1,0 +1,7 @@
+E:\JAC\OneDrive - John Abbott College\.net\Assignment\quiz\quiz1\quiz1\quiz1\bin\Debug\quiz1.exe.config
+E:\JAC\OneDrive - John Abbott College\.net\Assignment\quiz\quiz1\quiz1\quiz1\bin\Debug\quiz1.exe
+E:\JAC\OneDrive - John Abbott College\.net\Assignment\quiz\quiz1\quiz1\quiz1\bin\Debug\quiz1.pdb
+E:\JAC\OneDrive - John Abbott College\.net\Assignment\quiz\quiz1\quiz1\quiz1\obj\Debug\quiz1.csprojAssemblyReference.cache
+E:\JAC\OneDrive - John Abbott College\.net\Assignment\quiz\quiz1\quiz1\quiz1\obj\Debug\quiz1.csproj.CoreCompileInputs.cache
+E:\JAC\OneDrive - John Abbott College\.net\Assignment\quiz\quiz1\quiz1\quiz1\obj\Debug\quiz1.exe
+E:\JAC\OneDrive - John Abbott College\.net\Assignment\quiz\quiz1\quiz1\quiz1\obj\Debug\quiz1.pdb
